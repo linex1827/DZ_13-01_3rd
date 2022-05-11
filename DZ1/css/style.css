@@ -1,0 +1,11 @@
+.move_block {
+    position: relative;
+    height: 200px;
+}
+
+.mover {
+    position: absolute;
+    height: 100px;
+    width: 50px;
+    background-color: rgb(8, 123, 84);
+}
