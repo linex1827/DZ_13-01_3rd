@@ -3,6 +3,7 @@ const tabsParent = document.querySelector(".tabheader__items");
 const tabContent = document.querySelectorAll(".tabcontent");
 
 
+
 const hideTabContent = () => {
     tabContent.forEach((item) => {
         item.style.display = "none";
